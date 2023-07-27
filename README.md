@@ -19,6 +19,3 @@ Now, run the following command to start the application
 ```bash
 python app.py
 ```
-
-## Certificate of Publication
-![Publication Certificate]()
